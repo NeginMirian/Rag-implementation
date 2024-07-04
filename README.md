@@ -38,11 +38,8 @@ ghcr.io/huggingface/text-generation-inference:1.1.0 `
 --max-total-tokens 4096
 ## Step 5: Docker Logs
 Monitor the Docker logs to ensure the container is running correctly:
-
-powershell
-Code kopieren
 docker logs -f hf-tgi
-Step 6: Verify and Access the Service
+## Step 6: Verify and Access the Service
 Verify the Container:
 docker ps
 You should see hf-tgi in the list of running containers.
