@@ -46,6 +46,12 @@ Monitor the Docker logs to ensure the container is running correctly:
 docker logs -f hf-tgi
 ## Step 6: Verify and Access the Service
 Verify the Container:
+```
 docker ps
-You should see hf-tgi in the list of running containers.
+```
+You should see 
+``
+hf-tgi 
+```
+in the list of running containers.
 
