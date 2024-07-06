@@ -1,5 +1,6 @@
 # Rag-implementation
 This project demonstrates the implementation of Retrieval-Augmented Generation (RAG) using ChromaDB and a Llama model. The dataset used is sourced from the Grammy Awards on Kaggle. This project aims to showcase how to effectively integrate these technologies to build a robust and efficient RAG system.
+link for data: https://www.kaggle.com/datasets/unanimad/grammy-awards/data
 
 # Docker Setup Instructions
 To set up and run this project using Docker, follow these steps:
