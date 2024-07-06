@@ -1,6 +1,7 @@
-huggingface-hub
+huggingface-hub~=0.23.4
 transformers
 sentence_transformers
 chromadb
 ipywidgets
-pandas
+pandas~=2.2.2
+numpy~=1.26.4
